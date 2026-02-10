@@ -10,18 +10,18 @@ Controls & Automation + Robotics engineer focused on building industry-grade sys
 ---
 
 ## What I work on
-- **PLC Automation & Sequencing:** Micro850 / MicroLogix, ladder logic state machines, safe start/stop, alarms, interlocks 
+- **PLC Automation & Sequencing:** ladder logic state machines, safe start/stop, alarms, interlocks 
 - **SCADA / HMI:** AVEVA InTouch, industrial monitoring & operator workflows 
 - **Drives & Motion:** VFD setup/tuning (Delta / Fuji / Sinamics), motor control logic, fault handling 
-- **Robotics & Sensors:** LiDAR/UWB/IMU/ultrasonic integration, PID control, real-world constraints   
+- **Robotics & Sensors:** LiDAR/UWB/IMU/ultrasonic integration, PID control  
 
 ## Technical Skills
-**PLCs:** Micro850, MicroLogix 1100, Siemens S7-300, Mitsubishi, Delta :contentReference[oaicite:9]{index=9}  
-**SCADA/HMI:** AVEVA InTouch :contentReference[oaicite:10]{index=10}  
-**Drives:** Sinamics V20, Fuji Frenic, Delta VFD :contentReference[oaicite:11]{index=11}  
-**Protocols:** Modbus RTU/TCP, EtherNet/IP :contentReference[oaicite:12]{index=12}  
-**Robotics:** ROS/ROS2, sensors, control systems :contentReference[oaicite:13]{index=13}  
-**Software:** CCW, Factory I/O, SolidWorks, Ansys, Python :contentReference[oaicite:14]{index=14}  
+**PLCs:** Micro850, MicroLogix 1100, Siemens S7-300, Mitsubishi, DeltaV 
+**SCADA/HMI:** AVEVA InTouch  
+**Drives:** Sinamics V20, Fuji Frenic, Delta VFD 
+**Protocols:** Modbus RTU/TCP, EtherNet/IP   
+**Robotics:** ROS/ROS2, sensors, control systems   
+**Software:** CCW, Factory I/O, SolidWorks, Ansys, Python 
 
 
 
