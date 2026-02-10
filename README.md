@@ -25,7 +25,7 @@ Controls & Automation + Robotics engineer focused on building industry-grade sys
 
 
 
-⭐ If you’re hiring for **Controls/Automation, Robotics, or Industrial Software**, feel free to reach out.
+⭐ If you’re hiring for **Controls/Automation, Robotics engineer roles**, feel free to reach out.
 
 
 <!--
